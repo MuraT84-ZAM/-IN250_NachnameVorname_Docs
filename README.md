@@ -1,6 +1,5 @@
 # -IN250_NachnameVorname_Docs
 Aufgabe 1 Unterricht Block 3
-
 # Vorgehen
 1. logIn in Git
 2. Mit dem + Symbol eine neue Repo anlegen
